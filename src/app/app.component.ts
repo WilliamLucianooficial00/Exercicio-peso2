@@ -12,4 +12,4 @@ export class AppComponent  {
   exibir(){
     console.log('Peso:' + this.peso + 'Kg');
   }
-};
+}
